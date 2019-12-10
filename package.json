@@ -14,6 +14,7 @@
     "draftjs-to-markdown": "^0.5.1",
     "dva": "2.4.1",
     "dva-model-extend": "^0.1.2",
+    "dvajs": "^0.1.8",
     "echarts": "^4.4.0",
     "echarts-for-react": "^2.0.15-beta.1",
     "echarts-gl": "^1.1.1",
@@ -23,6 +24,7 @@
     "highcharts-more": "^0.1.7",
     "json-format": "^1.0.1",
     "lodash": "^4.17.11",
+    "marked": "^0.7.0",
     "md5": "^2.2.1",
     "nprogress": "^0.2.0",
     "path-to-regexp": "^3.1.0",
@@ -34,6 +36,7 @@
     "react-helmet": "^5.2.0",
     "react-highcharts": "^16.1.0",
     "react-perfect-scrollbar": "^1.5.0",
+    "react-router": "^5.1.2",
     "recharts": "^1.8.0",
     "store": "^2.0.0"
   },
@@ -64,7 +67,7 @@
     "stylelint": "^10.0.0",
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-standard": "^18.3.0",
-    "umi": "^2.10.0",
+    "umi": "^2.12.5",
     "umi-plugin-react": "^1.12.0"
   },
   "lint-staged": {

@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="http://github.com/zuiidea/antd-admin">
-    <img alt="antd-admin" height="64" src="./docs/_media/logo.svg">
+    <img alt="antd-admin" height="64" src="./docs/_media/logo/logo@72.png">
   </a>
 </p>
 
